@@ -1,0 +1,69 @@
+.color-orange{
+    background-color: #E76F51;
+    color: white;
+
+
+    
+}
+.background-green{
+    background-color: #264653;
+}
+
+.text-colors{
+    color: white;
+}
+.text-width{
+ 
+
+    font-weight: 700;
+
+}
+
+.bike-collection{
+    color: #E76F51;
+    margin-top: -1rem
+    
+    
+    
+
+}
+.text-deco{
+    text-decoration: underline;
+   padding-bottom: 20px;
+}
+.image-size{
+    height: 243px;
+    width: 288px;
+}
+.read-more{
+    background-color: #E76F51;
+    border: none;
+    color: white;
+   
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2em;
+    margin: 4px 2px;
+
+}
+
+.client-says{
+    margin-top: 2px;
+    color: #E76F51;
+    
+
+}
+.star-pngs{
+    height: 18.35px;
+    width: 18.34px;
+    margin-bottom: 10px;
+}
+.name-color{
+    color: #23A6F0;
+}
+
+.androoid-png{
+    width: 190px;
+    height: 150px;
+}
